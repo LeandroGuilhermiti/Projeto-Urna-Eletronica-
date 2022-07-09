@@ -1,0 +1,1 @@
+let seuVotoPara = document.getElementsByClassName('d-1-1 span');

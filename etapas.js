@@ -1,68 +1,68 @@
  let etapas = [
     {
-    título: 'VEREADOR',
+    titulo: 'VEREADOR',
     numeros: 5,
     candidatos: [
         {
-        numero: 10001,
-        name: 'Barão Vermelho',
+        numero: '10001',
+        nome: 'Barão Vermelho',
         partido: 'Maluco',
         fotos: [
-            {url: 'images/barao-vermelho.png', legenda: 'Vereador' }
+            {url: 'images/10001.png', legenda: 'Vereador' }
         ]
         },
 
         {
-            numero: 10002,
-            name: 'Capitao Caverna',
+            numero: '10002',
+            nome: 'Capitao Caverna',
             partido: 'Maluco',
             fotos: [
-            {url: 'images/capitao-caverna.jpg', legenda: 'Vereador' }
+            {url: 'images/10002.jpg', legenda: 'Vereador' }
             ]
         },
 
         {
-            numero: 10003,
-            name: 'Penelope Charmosa',
+            numero: '10003',
+            nome: 'Penelope Charmosa',
             partido: 'Maluco',
             fotos: [
-            {url: 'images/penelope-charmosa.png', legenda: 'Vereadora' }
+            {url: 'images/10003.png', legenda: 'Vereadora' }
             ]
         },
 
         {
-            numero: 10004,
-            name: 'Peter Perfeito',
+            numero: '10004',
+            nome: 'Peter Perfeito',
             partido: 'Maluco',
             fotos: [
-            {url: 'images/peter-perfeito.png', legenda: 'Vereador' }
+            {url: 'images/10004.png', legenda: 'Vereador' }
             ]
         },
 
         {
-            numero: 10005,
-            name: 'Professor Aéreo',
+            numero: '10005',
+            nome: 'Professor Aéreo',
             partido: 'Maluco',
             fotos: [
-            {url: 'images/professor-aereo.png', legenda: 'Vereador' }
+            {url: 'images/10005.png', legenda: 'Vereador' }
             ]
         },
 
         {
-            numero: 10006,
-            name: 'Quadrilha de Morte',
+            numero: '10006',
+            nome: 'Quadrilha de Morte',
             partido: 'Maluco',
             fotos: [
-            {url: 'images/quadrilha-de-morte.png', legenda: 'Vereador' }
+            {url: 'images/10006.png', legenda: 'Vereador' }
             ]
         },
 
         {
-            numero: 10007,
-            name: 'Rufus Lenhador',
+            numero: '10007',
+            nome: 'Rufus Lenhador',
             partido: 'Maluco',
             fotos: [
-            {url: 'images/rufus-lenhador.png', legenda: 'Vereador' }
+            {url: 'images/10007.png', legenda: 'Vereador' }
             ]
         },  
     
@@ -70,49 +70,49 @@
     },  
 
     {
-    título: 'PREFEITO',
+    titulo: 'PREFEITO',
     numeros: 2,
     candidatos: [
          {
-            numero: 10, 
+            numero: '10', 
             nome: 'Dick Vigarista',
             partido: 'Máquina do Mal',
             vice: 'Muttley',
             fotos: [
-                {url:'images/dick-vigarista.jpg', legenda: 'Prefeito'},
+                {url:'images/10.jpg', legenda: 'Prefeito'},
                 {url:'images/muttley.png', legenda: 'Vice-Prefeito', small: true}
             ] 
          },
 
          {
-            numero: 20, 
+            numero: '20', 
             nome: 'Medinho',
             partido: 'Cupê Mal-Assombrado',
             vice: 'Medonho',
             fotos: [
-                {url:'images/medinho.png', legenda: 'Prefeito'},
+                {url:'images/20.png', legenda: 'Prefeito'},
                 {url:'images/medonho.png', legenda: 'Vice-Prefeito', small: true}
             ] 
          },
 
          {
-            numero: 30, 
+            numero: '30', 
             nome: 'Sargento Bombarda',
             partido: 'Carro Tanque',
             vice: 'Soldado Meekley',
             fotos: [
-                {url:'images/sargento-bombarda.png', legenda: 'Prefeito'},
+                {url:'images/30.png', legenda: 'Prefeito'},
                 {url:'images/soldado-meekley.png', legenda: 'Vice-Prefeito', small: true}
             ] 
          },
 
          {
-            numero: 40, 
+            numero: '40', 
             nome: 'Tio Tomás',
             partido: 'Carroça a Vapor',
             vice: 'Urso Chorão',
             fotos: [
-                {url:'images/tio-tomas.png', legenda: 'Prefeito'},
+                {url:'images/40.png', legenda: 'Prefeito'},
                 {url:'images/urso-chorao.png', legenda: 'Vice-Prefeito', small: true}
             ] 
          },
